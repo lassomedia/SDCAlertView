@@ -6,8 +6,6 @@
 //  Copyright (c) 2014 Scotty Doesn't Code. All rights reserved.
 //
 
-@import UIKit;
-
 @protocol SDCAlertControllerVisualStyle;
 
 @interface SDCAlertTextFieldTableViewCell : UITableViewCell

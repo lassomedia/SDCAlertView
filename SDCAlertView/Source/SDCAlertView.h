@@ -6,8 +6,6 @@
 //  Copyright (c) 2013 Scotty Doesn't Code. All rights reserved.
 //
 
-@import UIKit;
-
 FOUNDATION_EXPORT CGFloat const SDCAlertViewWidth;
 
 typedef NS_ENUM(NSInteger, SDCAlertViewStyle) {

@@ -6,8 +6,6 @@
 //  Copyright (c) 2014 Scotty Doesn't Code. All rights reserved.
 //
 
-@import UIKit;
-
 typedef NS_OPTIONS(NSInteger, SDCAlertActionStyle) {
 	SDCAlertActionStyleDefault = 1 << 0,
 	/// The recommended action style stands out more than the other buttons to indicate to the user this

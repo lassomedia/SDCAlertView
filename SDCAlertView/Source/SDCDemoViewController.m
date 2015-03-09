@@ -11,6 +11,7 @@
 #import "SDCAlertController.h"
 #import "SDCAlertView.h"
 #import <UIView+SDCAutoLayout.h>
+#import <MapKit/MapKit.h>
 
 @interface SDCDemoViewController ()
 @property (nonatomic, weak) IBOutlet UISegmentedControl *alertStyleControl;
